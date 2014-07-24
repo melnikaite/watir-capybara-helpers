@@ -23,4 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "byebug"
 
   spec.add_runtime_dependency "watir-webdriver"
+  spec.add_runtime_dependency "launchy"
 end
